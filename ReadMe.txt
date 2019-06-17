@@ -32,3 +32,5 @@ The characteristics of the firewall is as follows:
     - TCP services that will be allowed
     - UDP services that will be allowed
     - ICMP services that will be allowed
+
+Please read the Design Doc for further details.
